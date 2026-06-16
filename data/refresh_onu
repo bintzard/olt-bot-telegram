@@ -1,0 +1,7 @@
+[
+  {
+    "interface": "gpon-onu_1/1/1:1",
+    "name": "01sucipto",
+    "description": "$$$$ODP_p4_Port_1"
+  }
+]
